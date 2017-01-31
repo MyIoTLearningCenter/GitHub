@@ -1,0 +1,1 @@
+C:\Users\jdzaw\Documents\GitHub\Windows10SamplePrograms\BlinkyHeadless2\BlinkyHeadless2\BlinkyHeadless2.csproj;arm
